@@ -1,0 +1,74 @@
+@CHARSET "UTF-8";
+
+.item-table-col-width{
+	width: 120px;
+}
+
+right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+ #stockdisposal_form_div .input-group{
+	width:100%;
+}
+
+
+
+div.acontainer table {
+	color: black;
+}
+
+.adropdown, .acontainer input {
+	z-index: 3;
+	
+}
+
+
+#items_table div.adropdown table thead tr:FIRST-CHILD th:nth-child(4) {
+	display: none;
+}
+
+#items_table div.adropdown table thead tr:FIRST-CHILD th:nth-child(5) {
+	display: none;
+}
+#items_table div.adropdown table thead tr:FIRST-CHILD th:nth-child(6) {
+	display: none;
+}
+#items_table div.adropdown table thead tr:FIRST-CHILD th:nth-child(7) {
+	display: none;
+}
+#items_table div.adropdown table thead tr:FIRST-CHILD th:nth-child(8) {
+	display: none;
+}
+#items_table div.adropdown table thead tr:FIRST-CHILD th:nth-child(9) {
+	display: none;
+}
+
+
+ div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+} 
+
+/* div.adropdown table tbody tr td:last-child {
+	display: none;
+}
+ */
+
+
+table div.adropdown table tbody tr td:last-child {
+	display: none;
+}  
+
+

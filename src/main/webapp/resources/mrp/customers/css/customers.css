@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+#department_form .input-group{
+	width: 100%;
+}
+
+#department_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#department_form .form-group {
+    margin-bottom: 20px;
+}
+input#accnt_code {
+  margin-left: -40px;
+  width: 190px;
+}
+#name,#code,#customer_type_name,#card_no,#accum_points,#redeem_points,
+#emailid,#street,#city,#state,#country,#zip_code,#phone_no,#fax
+{
+width:260px !important;
+ height:40px;
+}
+#address
+{
+	width:260px !important;
+}
+md-content {
+    overflow: hidden;
+}
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+
+/* md-content .md-tab.md-active {
+  cursor: default;
+  background: #202d3b;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+md-content .md-tab {
+    background: #657280 none repeat scroll 0 0;
+    color: #fff;
+    margin: 0 1px;
+}
+md-content .md-tab.md-active {
+    background: #202d3b none repeat scroll 0 0;
+    color: #fff;
+}
+md-pagination-wrapper{
+	width: 100% !important;
+} */

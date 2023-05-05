@@ -1,0 +1,8 @@
+package com.indocosmo.mrp.web.masters.saleitemcombocontents.saleitemcombocontentsubstitution.service;
+
+import com.indocosmo.mrp.web.core.base.service.IGeneralService;
+import com.indocosmo.mrp.web.masters.saleitemcombocontents.saleitemcombocontentsubstitution.dao.SaleItemComboContentsSubstituionDao;
+import com.indocosmo.mrp.web.masters.saleitemcombocontents.saleitemcombocontentsubstitution.model.SaleItemComboContentsSubstituion;
+
+public interface ISaleItemComboContentsSubstituionService extends IGeneralService<SaleItemComboContentsSubstituion, SaleItemComboContentsSubstituionDao>{
+}

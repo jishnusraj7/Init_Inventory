@@ -1,0 +1,165 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+#department_form .input-group{
+	width: 100%;
+}
+
+#department_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#department_form .form-group {
+    margin-bottom: 20px;
+}
+input#accnt_code {
+  margin-left: -40px;
+  width: 190px;
+}
+#name,#code,#permitted_for,#account_code,#discount,#edittyp,
+#startdate,#enddate,#password1,#password2,#grouping_quantity
+{
+width:260px !important;
+ height:40px;
+}
+#description
+{
+	width:260px !important;
+}
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+#tab-content-2 {
+    min-height: 430px;
+}
+#tab-content-2 .md-padding.ng-scope._md {
+    min-height: 350px;
+}
+.rowactive {
+    color: green;
+}
+.rowinactive {
+    color: red;
+}
+.timebox{
+width: 100px;
+  margin-left: -15px;}
+  
+select#start_time_min ,select#end_time_min{
+  width: 70px;
+}
+select#permitted_for,select#edittyp
+{
+	border-bottom-left-radius: 0;
+	border-top-left-radius:0;
+}
+button#viewBtn1{
+  width: 100px;
+  height: 30px;
+  background: #4E9CAF;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin-right: 20px;
+  margin-top: 5px;
+  border: none;
+}
+.disbed_input{
+background: rgb(237, 232, 232);
+}
+#DataTables_Table_1_wrapper thead
+{
+	width:100%;
+}
+#DataTables_Table_1_wrapper .dataTables_scrollHeadInner 
+{
+	width:100% !important ;
+}
+#DataTables_Table_1_wrapper table
+{
+	width:100% !important;
+}
+div#DataTables_Table_1_filter {
+  position: fixed;
+  top: 65px;
+  right: 22px;
+  margin-right: 0px;
+}
+a#DataTables_Table_1_first, #DataTables_Table_1_paginate span, a#DataTables_Table_1_last {
+  display: none;
+}
+a#DataTables_Table_1_previous {
+  width: 80px;
+  text-align: center;
+  display: block;
+  float: left;
+}
+a#DataTables_Table_1_next {
+  width: 80px;
+  text-align: center;
+  float: right;
+}
+a#DataTables_Table_1_previous,a#DataTables_Table_1_next
+{
+	cursor:pointer;
+	appearance: button; /* CSS3 */    
+  -webkit-appearance: button; /* Safari and Chrome */
+  -moz-appearance: button; /* Firefox */
+  -ms-appearance: button; /* Internet Explorer */
+  -o-appearance: button; /* Opera */
+  cursor: default;
+}
+a#DataTables_Table_1_next {
+  width: 80px;
+  text-align: center;
+}
+a#DataTables_Table_1_previous {
+  width: 80px;
+  text-align: center;
+  float: left;
+  display: block;
+  margin-right: 5px;
+}
+html input[disabled] {
+    cursor: default;
+    background: #eeeeee !important;
+}
+@media (min-width: 768px) {
+  .modal-dialog {
+    width: 85% !important;
+    margin: 30px auto;
+  }
+   }
+   .paginate_button {
+  background: #2B2B2C;
+  color: #fff;
+  border-radius: 3px;
+  font-size: 16px;
+}
+#DataTables_Table_1_paginate {
+  padding-left: 128px;
+  float: right;
+  padding-right: 20px;
+}

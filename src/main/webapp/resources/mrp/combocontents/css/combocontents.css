@@ -1,0 +1,19 @@
+
+#area_code_form .input-group{
+	width: 100%;
+}
+
+#area_code_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#area_code_form .form-group {
+    margin-bottom: 20px;
+}
+
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}

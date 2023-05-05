@@ -1,0 +1,124 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+#tableloc_form .input-group{
+	width: 100%;
+}
+
+#tableloc_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#tableloc_form .form-group {
+    margin-bottom: 20px;
+}
+input#name,textarea#description,input#amount
+ {
+  width: 298px;
+}
+
+.setcolor1
+{
+	color: #3c8dbc;
+	
+}
+
+.dt-body-center{
+	    text-align: center;	
+	    cursor: pointer;	
+}
+
+th.dt-body-center {
+    
+    text-align: center;
+}
+#border {
+  border-collapse: collapse;
+  position: relative;
+  border: 2px solid #3c8dbc;
+  width:736px;height:736px;
+}
+.tabledetailshead {
+  background: #3c8dbc;
+  color: #fff;
+  padding: 10px 56px;
+  font-size: 16px;
+  text-align: center;
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin-top: 0;
+  float: left;
+  width: 100%;
+}
+
+.addmargin {
+  margin-top: 15px;
+}
+.choosefile {
+  border: 1px solid #ccc;
+  padding: 9px 31px;
+  background: #607D8B;
+  cursor: pointer;
+  color: #fff;
+  letter-spacing: 1px;
+}
+button#btnNew {
+  width: 100px;
+}
+.imagelayout {
+  border: 1px solid #ccc;
+}
+#imagelayoutpreview {
+  margin: 0 auto;
+  display: block;
+  padding: 5px;
+}
+.buttonsclass {
+  float: left;
+ 
+  width: 100%;
+  margin-top: 10px;
+}
+/* button#popfromdelete,button#popfromsave,button#popfromadd{
+  width: 100%;
+} */
+/* .popimglayoutdiv {
+    float: left;
+    width: 100%;
+    border: 1px solid #ccc;
+    height: 190px;
+    
+    overflow-x: scroll;
+} */
+.popimglayoutdiv {
+width: 100%; 
+position: relative; 
+overflow-y: hidden; 
+overflow-x: scroll;
+  height: 190px;
+   border: 1px solid #ccc;
+  
+}
+.imglist
+{
+	padding:10px;
+}
+span#form_div_name_error {
+  float: left;
+  padding: 11px 0;
+  width: 50px;
+}
+.whiteBorder
+{
+	border: 3px solid rgba(255, 255, 255, 0.498039);
+}
+.selectedBorder
+{
+	border: 3px solid rgb(0, 150, 136);
+}
+button#btnDelete1 ,button#btnOk {
+    width: 100px;
+}{
+    width: 100px;
+}

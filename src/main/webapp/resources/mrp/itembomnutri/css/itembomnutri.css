@@ -1,0 +1,565 @@
+@CHARSET "UTF-8";
+.attr {
+	margin-left: -62px;
+}
+
+.divTax {
+	margin-left: 485px;
+}
+
+.lblGnrl {
+	margin-left: -160px;
+}
+
+.lblGnrl1 {
+	margin-left: -70px;
+}
+
+.btn-link:hover {
+	text-decoration: none;
+}
+
+/* .btn-sync{
+	color: white !important;
+	
+} */
+.stockHead {
+	
+}
+
+.bold {
+	font-size: x-large;
+}
+
+.lbactive {
+	margin-top: -6px;
+}
+
+/* .acontainer {
+	width: 300px;
+}
+ */
+.bg {
+	margin-left: 0;
+}
+
+.input-group-addon {
+	line-height: 0;
+}
+/* 
+.acontainer input {
+	width: 317px;
+} */
+
+/* .suplier {
+	display: inline-flex;
+} */
+#prefSupplierName {
+	height: 34px;
+	/* margin-left: 40px; */
+}
+
+.searchName {
+	/* height: 40px; */
+/* 	margin-top: 12px; */
+	/* width: 315px; */
+}
+
+.itmcode {
+	
+}
+
+.lbLeft {
+	padding: 0;
+}
+
+/* place holder font style */
+.newFont::-moz-placeholder { /* Mozilla Firefox 19+ */
+	font-size: 15px;
+}
+
+/* .md-tab {
+	border-radius: 0px !important;
+	font-weight: 600 !important;
+	background-color: rgb(250, 250, 250) !important;
+}
+
+.md-tab.md-active {
+	background-color: #ccc !important;
+} */
+
+body.md-dialog-is-showing {
+	overflow: visible !important;
+}
+
+.stock_item_div div.adropdown table thead tr th:nth-child(1) {
+    display: none;
+}
+.stock_item_div div.adropdown table thead tr th:nth-child(4) {
+    display: none;
+}
+
+.stock_item_div div.adropdown table thead tr th:nth-child(5) {
+    display: none;
+}
+.stock_item_div div.adropdown table thead tr th:nth-child(6) {
+    display: none;
+}
+.stock_item_div div.adropdown table thead tr th:nth-child(7) {
+    display: none;
+}
+.stock_item_div div.adropdown table thead tr th:nth-child(8) {
+    display: none;
+}
+.stock_item_div div.adropdown table thead tr th:nth-child(9) {
+    display: none;
+}
+#stockHead tbody tr td .acontainer.adropdown table tbody tr td:last-child {
+	display: none;
+} 
+#stockHead tbody tr td .acontainer .adropdown table thead tr th:first-child {
+	display: none;
+}
+
+#stockHead tbody tr td .acontainer.adropdown table tbody tr td:last-child {
+	display: none;
+} 
+#prodCost tbody tr td .acontainer .adropdown table thead tr th:first-child
+{
+	display: none;
+}
+.activebtn {
+   
+    width: 130px;
+    height: 30px;
+    background: #4E9CAF;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+.synchColor
+{
+	color:#cc6600;
+	cursor:pointer;
+}
+.getPointer
+{
+	cursor:pointer;
+}
+#attri input[type=text]
+{
+	margin-top: 10px;
+}
+
+.input-group.taxselct {
+    float: left;
+}
+.addbtn {
+    float: left;
+    padding-left: 20px;
+}
+.addbtn button#bt {
+    border: 0 none;
+    background: #696969;
+    display: block;
+    width: 32px;
+    height: 26px;
+    margin-top: 5px;
+    border-radius: 4px;
+}
+.addbtn button#btnn {
+    border: 0 none;
+    background: transparent;
+    display: block;
+    width: 32px;
+    height: 26px;
+    border: 0 none;
+    margin-top: 5px;
+    border-radius: 4px;
+}
+.addbtn button#bt i.fa.fa-plus {
+    color: #fff;
+}
+.addbtn button#bt i.fa.fa-pencil {
+    color: #fff;
+}
+.addbtn button#btnn i.fa.fa-plus {
+    color: #fff;
+}
+
+
+fa-pencil
+body.modal-open {
+    overflow: hidden;
+}
+.main_choice input.ng-pristine.ng-untouched.ng-valid.ng-not-empty {
+    width: 240px;
+    margin: 5px;
+    color: #696969;
+    padding: 5px 10px;
+    cursor: not-allowed;
+    background: #e1e1e1;
+    border: 1px solid #c6c6c6;
+}
+button.delete_icon_div {
+    color: #d53838;
+    border: 0 none;
+    background: transparent;
+}
+
+button.delete_icon_div i.fa.fa-minus-circle {
+    font-size: 28px;
+}
+.addbtn button#btnn i.fa.fa-plus {
+    color: #3e7ddd;
+    font-size: 25px;
+}
+.md-padding.salitmtab select {
+    width: 220px;
+}
+.md-padding.salitmtab input[type=text]  {
+    width: 320px;
+}
+
+.md-padding.salitmtab input[type=text]#fg_color  {
+    width: 160px;
+}
+.md-padding.salitmtab input[type=text]#bg_color  {
+    width: 160px;
+}
+.modal-content.grpitmformmdl select {
+    width: 219px;
+}
+.modal-content.grpitmformmdl input[type=text]  {
+    width: 219px;
+}
+
+input#item_thumb {
+    height: 50px;
+    padding-top: 21px;
+    width: 365px;
+    /* border: 1px solid rgb(221, 75, 57); */
+}
+.itemImage {
+    width: 161px;
+    width: 200px;
+    background: #eee;
+    border: 1px solid #ddd;
+    padding: 4px;
+    height: 150px;
+    border-radius: 4px;
+}.itemImage img {
+    width: 100%;
+}
+.img_upload_div {
+    position: relative;
+}
+.img_upload_div input#item_thumb {
+    height: 30px;
+    padding: 0;
+}
+  .activeLink{
+       pointer-events: none;
+       cursor: default;
+    } 
+.item_master_mdl_div .form-group {
+    float: left;
+    width: 100%;
+}
+.item_master_mdl_div .modal-footer {
+    border-top-color: #f4f4f4;
+    text-align: left;
+}
+
+div#div_btn_add {
+    margin-top: 0px !important;
+}
+.btm_itemmaster, .btm_itemmaster  .form-group {
+    width: 100%;
+    float: left;
+}
+div#popbeforsave {
+    float: left;
+    width: 100%;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+div#myModal2 {
+    z-index: 99999;
+}
+
+
+/* #div_table_bom div.adropdown table thead tr th:nth-child() {
+	display: none;
+} */
+#div_table_bom div.adropdown table thead tr th:nth-child(4) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(5) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(6) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(7) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(8) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(9) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(10) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(11) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(12) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(13) {
+	display: none;
+}
+
+
+
+
+html input[disabled] {
+    cursor: default;
+    background: #eeeeee !important;
+}
+
+
+
+ #DataTables_Table_2_wrapper .dataTables_scrollHeadInner thead {
+    position: fixed !important; 
+        width: 85% !important; 
+
+        z-index: 0;
+} 
+
+
+ #DataTables_Table_2_wrapper  .dataTables_scrollBody {
+    margin-top: 40px !important;
+    overflow: inherit  !important; 
+
+}
+
+
+#itembom_form_div table tr th {
+    font-size: 15px !important;
+    background-color: #3498db !important;
+    color: #fff !important;
+}
+
+label.semi-fini {
+    float: left;
+    padding-top: 10px;
+}
+.maindivdetail
+{
+	height: 300px;
+	
+}
+.frstdiv
+{
+		float: left;
+		height: 228px;
+		border: 1px solid #ccc;
+		
+	
+}
+.scnddiv
+{
+	float: left;
+	height: 228px;
+	border: 1px solid #ccc;
+	
+}
+label.new {
+    float: left;
+    width: 46%;
+}
+input#exampleInputName2 {
+    float: left;
+    width: 53%;
+}
+.new_section.col-md-4 {
+    width: 55%;
+    margin-left: 30px;
+    margin-top: -5px;
+
+}
+.col-md-4.no_pad {
+    padding-left: 0px;
+}
+
+label.margin_percent.col-sm-2 {
+    margin-top: 9px;
+}
+.new_no_pad {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.para {
+    padding-left: 10px;
+    border-bottom: 1px solid #ccc;
+    padding: 6px 14px;
+}
+.tax_am
+{
+
+     width: 147px !important; 
+    margin-left: 26px;
+
+
+}	
+.label_class {
+    padding-left: 7px;
+    margin-top: -5px;
+        white-space: nowrap;
+    
+}
+div#form_div_inclusive_tax {
+    margin-left: 66px;
+}
+.frstdiv.col-sm-6.new_no_pad.frstdvwidth {
+    width: 49%;
+    margin-right: 9px;
+}
+div#semifinished {
+    margin-left: 53px;
+}
+
+.item_text_input input[type=text] {
+    width: 100%;
+    padding: 2px 2px;
+    text-align: right;
+    height: 34px;
+}
+.item_text_input {
+    float: left;
+    width: 150px;
+}
+label.margin_percent.is_per_lab {
+    float: left;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.name_item {
+    float: left;
+    width: 353px;
+}
+
+
+.name_item .input-group input#stock_item_name {
+    width: 100%;
+}
+.name_item .input-group {
+    width: 100%;
+}
+
+#form_div_bom_master_code div.adropdown table thead tr:FIRST-CHILD th:nth-child(1) {
+	display: none;
+}
+#form_div_bom_master_code div.adropdown table thead tr:FIRST-CHILD th:nth-child(4) {
+	display: none;
+}
+section#module_content.content.item-bom-div {
+    padding-bottom: 0;
+}
+
+section#module_content.content.item-bom-div .box {
+    margin-bottom: 0;
+}
+
+section#module_content.content.item-bom-div .maindivdetail.col-sm-12.new_no_pad {
+    height: auto;
+}
+
+.stok_item_div_con .input-group {
+    width: 100%;
+}
+.stok_item_div_con  .acontainer {
+    width: 100%;
+}
+.stok_item_div_con_rgt .input-group {
+    width: 100%;
+}
+.item-bom-div .form-group {
+    margin-bottom: 5px;
+}
+.item-bom-div .frstdiv {
+    height: 200px;
+}
+.item-bom-div .scnddiv {
+    height: 200px;
+}
+.form_div_uom_div_con .input-group {
+    float: left;
+    width: 100%;
+}
+.item-bom-div .stock-tables {
+    padding: 3px 8px;
+}
+.item-bom-div table.dataClass >thead>tr>th{
+	padding-left:30px
+}
+
+
+.itembom-list section.content-header.content-header_second {
+    float: left;
+    height: auto;
+    width: auto;
+}
+.itembom-list .new_box {
+    float: right;
+    padding-top: 14px;
+    width: auto;
+}
+.itembom-list .list-content-header {
+    background: #fff;
+    height: 85px;
+}
+.itembom-list #module_content.content {
+    padding: 85px 15px 35px;
+}
+.itembom-list .item-bom-div .form-group#div_table_show {
+    margin-bottom: 5px;
+    padding-top: 40px;
+}
+
+.refresh_btn{
+	color: #fff !important;
+	background:  #6F6F6F !important;
+	transition: all .2s ease-in-out;
+}
+
+.refresh_btn:hover{
+	color: #fff !important;
+	transform: Scale(1.1);
+}
+
+.justify-end{
+	display: flex;
+	justify-content: end;
+	padding-bottom: 2em;
+}

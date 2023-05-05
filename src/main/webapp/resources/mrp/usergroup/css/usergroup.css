@@ -1,0 +1,63 @@
+@CHARSET "UTF-8";
+
+#user_group_form .input-group{
+	width: 100%;
+}
+
+ #user_group_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+} 
+
+#user_group_form .form-group {
+    margin-bottom: 20px;
+}
+.table_grouphead_color
+{
+	background-color: #c9c9c9;
+}
+tr.table_grouphead_color:hover
+{
+	background-color: #c9c9c9 !important;
+}
+#name
+{
+	color: black;
+	font-size: 22px;
+}
+label.input_algn_cntr {
+    width: 100%;
+    text-align: center;
+}
+th.ng-scope.sorting_disabled {
+    text-align: center;
+}
+#DataTables_Table_1_info
+{
+	display: none;
+}
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+form#user_group_form2 th {
+    text-align: center;
+    vertical-align: middle;
+}
+.table th span {
+    display: block;
+}
+#user_group_form2 .checkbox {
+    display: initial;
+}
+.permitshop
+{
+	color: red;
+	    font-size: 15px;
+}
+.permitHq
+{
+	color: green;
+	    font-size: 15px;
+}

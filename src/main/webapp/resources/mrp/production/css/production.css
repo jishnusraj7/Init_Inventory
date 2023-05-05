@@ -1,0 +1,463 @@
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+input#REf_No
+{
+	width:150px;
+}
+#form_div_scheduledate_planning {
+  width: 200px;
+}
+
+#item_category_form #item_category_form_div .input-group
+	{
+	width: 100%;
+}
+
+#item_category_form  .input-group {
+	
+	width: 100%;
+
+}
+.cmmn_maain_tbl_2 {
+    /* background: #cbcfd4 none repeat scroll 0 0; */
+    padding:20px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#items_table tr td.font-style {
+    font-weight: bold;
+    text-align: right;
+}
+
+
+#items_table  div.adropdown table thead  tr th:last-child {
+	display: none;
+}
+
+
+#form_div_startdate
+{
+	padding: 20px;
+	padding-bottom: 10px;
+}
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+.daily_production_routineSchedule {
+    width: 80px;
+    text-align: right;
+}
+#daily_production_newOrder {
+/*     width: 110px; */
+    text-align: right;
+}
+.daily_production_totalOrder {
+    width:80px;'
+    text-align: right;
+}
+.daily_production_totalProduction {
+    width: 80px;
+	text-align: right;
+}
+.div_uomcode{
+	width:100%;
+}
+.daily_production_remarksItm
+{
+	 width: 200px;
+}
+#items_table  div.adropdown table thead  tr th:last-child {
+	display: none;
+}
+#items_table tr td:first-child  div.adropdown table  tr td:last-child
+{
+	display: none;
+}
+
+.daily_prdct_remarks .input-group textarea#remarks {
+    float: left;
+    width: 100%;
+}
+.form-group.daily_prdct_remarks {
+    float: left;
+    margin-top: 16px;
+    width: 100%;
+}
+.daily_prdct_remarks .input-group {
+    width: 100%;
+}
+
+
+/* #items_table  div.adropdown table tbody  tr td:last-child {
+	display: none;
+} */
+.modal-backdrop {
+z-index: 0 !important;
+}
+.showdeltBtn
+{
+	margin-left: 60em;
+	cursor:pointer;
+}
+
+.prod_radio_header
+{
+	padding-bottom: 20px;
+}
+#prod_schdule_div label.col-sm-2 {
+    text-align: right;
+}
+#prod_schdule_div .form-group {
+    float: left;
+    width: 100%;
+}
+#prod_schdule_div .cmmn_maain_tbl {
+    background: #cbcfd4 none repeat scroll 0 0;
+    float: left;
+    margin: 1%;
+    padding: 0.5%;
+    width: 98%;
+}
+#form_div_scheduledate_planning {
+    width: 200px;
+}
+input#prodNum {
+  width: 200px;
+}
+#prodNum
+{
+	width:200px;
+}
+#div_uomcode {
+    width:30px;
+}
+#schedule_qty {
+    width: 90px;
+}
+/* .item_stock_input_id {
+    float: left;
+    margin-left: 5px;
+    width: 67%;
+}
+.item_stock_input {
+    float: left;
+    width: 30%;
+} */
+#form_div_items_tbl #items_table th {
+    font-size: 16px;
+}
+#form_div_items_tbl #items_table td {
+    padding: 6px 3px;
+}
+#form_div_items_tbl #items_table td input {
+    padding: 5px;
+}
+#totalOrder
+{
+	text-align: right;
+}
+.textcntr
+{
+	text-align: center;
+}
+.status_bar
+{
+	padding:11px;
+}
+div#form_div_prod_no_planning input {
+  padding-left: 10px;
+}
+#divProdTime {
+    width: 150px;
+}
+/* .form-control.prod_time_div.ng-binding {
+  font-size: 18px !important;
+  padding-left: 10px;
+}  */
+ /* #prod_qty {
+ width:110px;
+} */
+div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+h1{
+	color:black;
+	    font-size: 20px;
+}
+input#to_department_name {
+  width: 150px;
+}
+input#stock_item_name {
+  width: 200px ;
+}
+
+#quantity1 div input[type="text"],
+#costtypes1 div input[type="text"],
+#salerate1 div input[type="text"]
+{
+	font-weight: bold;
+}
+#quantity1 div input
+{
+	width:110px;
+}
+th#stockhead {
+  width: 80px;
+}
+#salerate1 label
+{
+	width:85px;
+}
+.addpadding{
+  padding-top: 12px;
+}
+/* .modal-content {
+  width: 900px;
+  right: 100px;
+} */
+#stockHead tbody tr td .acontainer .adropdown table thead tr th:first-child {
+	display: none;
+}
+
+#stockHead tbody tr td .acontainer.adropdown table tbody tr td:last-child {
+	display: none;
+} 
+#div_table_bom div.adropdown table thead tr th:nth-child(4) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(5) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(6) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(7) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(8) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(9) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(10) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(11) {
+	display: none;
+}
+#div_table_bom div.adropdown table thead tr th:nth-child(12) {
+	display: none;
+}
+button#btnUpdte {
+  width: 90px;
+}
+@media (min-width: 768px) {
+  .modal-dialog {
+    width: 80% !important;
+    margin: 30px auto;
+    /*  overflow-y:scroll;
+      z-index:10; */
+  }  }
+  input#bom_qty {
+  margin-bottom: 20px;
+}
+td#costs input,td#salerate2 input,td#quants input, td#stockValdiv input
+{
+	width:75px;
+}
+#stkAuto input {
+    width: 100%;
+}
+#stkAuto .acontainer.search-div-width {
+    width: 100%;
+}
+td div label {
+    font-size: 12px !important;
+}
+td#salerate2 {
+    width: 12px;
+}
+td#costs {
+    width: 12px;
+}
+td#quantity1 {
+    width: 45px;
+}
+td#salerate1{
+    width: 45px;
+}
+td#costtypes1{
+    width: 45px;
+}
+#depId1 input {
+    width: 100%;
+}
+body.md-dialog-is-showing {
+	overflow: visible !important;
+}
+.modal_box_div {
+    float: left;
+    width: 100%;
+}
+.label_div {
+    float: left;
+    width: 123px;
+}
+.label_div1 {
+    float: left;
+    width: 250px;
+}
+.input_txt_box {
+    float: left;
+    width: 185px;
+}
+
+.main_schedule_div {
+    border: 1px solid #ccc;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    background-color: ghostwhite;
+    
+}
+.schedule_top {
+    border-bottom: 1px solid #ccc;
+    float: left;
+    text-align: center;
+    font-weight:bold;
+    width: 100%;
+}
+.schedule_top > p {
+    margin: 0;
+    padding: 5px 0;
+}
+.schedule_date_div p{
+    margin: 0;
+	padding-left: 5px;
+}
+.schedule_con_div {
+    border-bottom: 1px solid #ccc;
+    float: left;
+    padding: 5px 0;
+    text-align: center;
+    width: 100%;
+}
+.schedule_date_div {
+    border-bottom: 1px solid #ccc;
+    float: left;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+.schedule_date_start {
+    border-left: 1px solid #ccc;
+    float: left;
+    padding: 5px 0;
+    width: 50%;
+    text-align: center;
+}
+.schedule_date_start {
+    border-left: 1px solid #ccc;
+    float: left;
+    padding: 5px 0;
+    width: 50%;
+}
+.schedule_btm_div{
+	height: 40px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.schedule_btm_div p{
+	  margin: 0;
+      padding: 5px 0;
+      
+}
+.schedule_btm_div p label
+{
+    font-size: 16px !important;
+    font-weight: 600;
+}
+.pos_top {
+  position: fixed;
+  top: 100px;
+  z-index: 999999;
+  right: 120px;
+}
+/* #btnAdd:disabled,
+#btnAdd:[disabled]{
+ 
+  background-color: #86aadd;
+  border-color: #86aadd;
+
+} */
+
+.spinnerImg {
+    margin-left: 39%;
+    margin-top:6%;
+}
+.mnth_main_div {
+  position: fixed;
+  top: 117px;
+  z-index: 999;
+  width:255px;
+ /*  left: 85px; */
+}
+.greenColor
+{
+	color:green;
+}
+.redColor
+{
+	color:red;
+}
+.date_top_div_label {
+    float: left;
+    width: 64px;
+}
+/* i.fa.fa-info-circle.tooltiptext.image2[disabled] {
+    cursor: not-allowed!important;
+} */
+i.fa.fa-pencil.img2[disabled] {
+    cursor: not-allowed;
+}
+select#cust {
+    width: 216px;
+    height: 34px;
+    
+}
+select#shop {
+    width: 216px;
+    height: 34px;
+    
+}

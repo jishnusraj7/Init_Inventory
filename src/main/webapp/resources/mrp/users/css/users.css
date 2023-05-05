@@ -1,0 +1,93 @@
+@CHARSET "UTF-8";
+
+
+#users_form .input-group{
+	width: 100%;
+}
+
+#users_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#users_form .form-group {
+    margin-bottom: 20px;
+}
+.passmismatch {
+    color: red;
+    float: left;
+    font-size: 14px;
+    margin-top: 1px;
+    text-transform: capitalize;
+    width: auto;
+}
+div#passwordChangediv {
+    background: #ececec;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    float: left;
+    width: 100%;
+}
+.btnToggle button {
+    width: 85px;
+    color: #fff;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+.btnToggle .btn.btn-default {
+    background: #de9504;
+    border: 1px solid #bd7403;
+}
+.btnToggle .btn.btn-default:hover {
+    color: #fff
+}
+.btnToggle .btn.btn-default:focus {
+    color: #fff
+}
+.btnToggle {
+    float: right;
+}
+
+.btnToggle .btn.btn-primary {
+    background: #6e9737;
+    border: 1px solid #5c8525;
+}
+input#confirm_password {
+    width: 73%;
+}
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+.empactive {
+    color: #0c9c0c;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+.empainactive {
+    color: #ff0000;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+
+a#table2_first {
+    display: none;
+}
+a#table2_last {
+    display: none;
+}
+#table2_paginate span {
+    display: none;
+}
+a#table2_previous {
+    border: 1px solid #ddd;
+    padding: 6px;
+}
+a#table2_next {
+    border: 1px solid #ddd;
+    padding: 6px;
+}

@@ -1,0 +1,248 @@
+@CHARSET "UTF-8";
+
+.prod-date {
+	height: 30px;
+	padding-left: 5px;
+}
+
+.table-text {
+	text-align: left;
+	height: 30px;
+	border: transparent !important;
+}
+
+button#btn_update {
+	margin-bottom: 40px;
+}
+
+.page-content-header {
+	background: #ffffff;
+	border-bottom: 1px solid #acb0b5;
+	height: 50px;
+	position: fixed;
+	top: 68px;
+	width: 100%;
+	z-index: 9;
+	padding-top: 30px;
+	padding-bottom: 45px;
+	margin-top: 14px;
+	border-color: white;
+	width:calc(100% - 230px);
+}
+
+table.table.table-bordered th {
+	background: #3498db !important;
+	color: #fff !important;
+}
+
+.table-fixed {
+	width: 100%;
+	background-color: #f3f3f3;
+}
+
+.table-fixed tbody {
+	height: 300px;
+	overflow-y: auto;
+	width: 100%;
+}
+
+.table-fixed thead {
+	width: 98%
+}
+
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td,
+	.table-fixed th {
+	display: block;
+}
+
+.table-fixed td, .table-fixed th {
+	padding: 2px 0px !important;
+	border: 0 none !important;
+	text-align: left !important;
+}
+
+.tbl_tx_bx input.form-control[disabled] {
+	background: #e7e7e714;
+	border: 0 none;
+	padding: 0;
+	width: 100%;
+	/* text-align: left !important; */
+	padding-left: 7px;
+}
+
+.table-fixed th {
+	padding: 7px 0 !important;
+	text-indent: 6px;
+	font-weight: 560;
+	float: left
+}
+
+.table-fixed th, .table-fixed td {
+	float: left !important;
+}
+
+#module_content.content {
+	padding: 75px 15px 35px;
+}
+
+#items_table tr.selected td {
+	background-color: gray !important;
+	font-weight: bold; 
+}
+
+/* 
+input#stock_item_code, input#stock_item_name {
+	width: 258px;
+	margin-left: 3px;
+}
+*/
+/* input#uom_code, input#current_stock, input#actual_stock {
+	width: 169px;
+	margin-left: 3px;
+}  */
+
+#dep_cat{
+	text-align: right;
+	float: left;
+	text-align: right;
+	/* top: -42px; *//* ELDHOSE ON 27-01-2020 */
+}
+
+#dep_cat label{
+	text-align:left;
+}
+
+#search_div{
+	text-align: right;
+	margin-top: 25px;/* ELDHOSE ON 27-01-2020 */
+}
+
+#stock_date{
+	text-align: left;
+	/* float: initial; *//* ELDHOSE ON 27-01-2020 */
+	/* top: -15px; *//* ELDHOSE ON 27-01-2020 */
+}
+
+#stockTaking_hdr{
+	width: 100%;
+}
+
+input.form-control.search_item {
+	height: 30px;
+	border-color: darkgrey;
+}
+#items_table tr.selected td input {
+    color: #000;
+}
+.variance_td{
+	text-align: right !important;
+}
+
+/* Absolute Center Spinner */
+.loader {
+  position: fixed;
+  z-index: 999;
+  height: 2em;
+  width: 2em;
+  overflow: visible;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+
+/* :not(:required) hides these rules from IE9 and below */
+.loader:not(:required) {
+  /* hide "loading..." text */
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+
+.loader:not(:required):after {
+  content: '';
+  display: block;
+  font-size: 10px;
+  width: 1em;
+  height: 1em;
+  margin-top: -0.5em;
+  -webkit-animation: spinner 1500ms infinite linear;
+  -moz-animation: spinner 1500ms infinite linear;
+  -ms-animation: spinner 1500ms infinite linear;
+  -o-animation: spinner 1500ms infinite linear;
+  animation: spinner 1500ms infinite linear;
+  border-radius: 0.5em;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.75) 1.5em 0 0 0, rgba(0, 0, 0, 0.75) 1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) 0 1.5em 0 0, rgba(0, 0, 0, 0.75) -1.1em 1.1em 0 0, rgba(0, 0, 0, 0.5) -1.5em 0 0 0, rgba(0, 0, 0, 0.5) -1.1em -1.1em 0 0, rgba(0, 0, 0, 0.75) 0 -1.5em 0 0, rgba(0, 0, 0, 0.75) 1.1em -1.1em 0 0;
+  box-shadow: rgba(0, 0, 0, 0.75) 1.5em 0 0 0, rgba(0, 0, 0, 0.75) 1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) 0 1.5em 0 0, rgba(0, 0, 0, 0.75) -1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) -1.5em 0 0 0, rgba(0, 0, 0, 0.75) -1.1em -1.1em 0 0, rgba(0, 0, 0, 0.75) 0 -1.5em 0 0, rgba(0, 0, 0, 0.75) 1.1em -1.1em 0 0;
+}
+
+/* Animation */
+
+@-webkit-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-moz-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-o-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

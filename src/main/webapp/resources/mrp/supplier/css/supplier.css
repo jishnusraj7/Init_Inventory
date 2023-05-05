@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+
+#supplier_form label {
+	text-align: left !important;
+}
+
+
+#supplier_form #supplier_form_div .input-group
+	{
+	width: 100%;
+}
+
+#supplier_form  .input-group {
+	
+	width: 100%;
+}
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+div#div_btn_add {
+    margin-top: 0px !important;
+}
+#itemLists{
+	display:none;
+}

@@ -1,0 +1,52 @@
+@CHARSET "UTF-8";
+
+#currency_details_form .input-group{
+	width: 100%;
+}
+
+#currency_details_form .box-body{
+	padding-top: 30px;
+}
+
+#currency_details_form .form-group {
+    margin-bottom: 20px;
+}
+#code
+{
+	font-size: x-large;
+}
+#name
+{
+		font-size: x-large;
+	
+}
+
+#form_div_code .input-group,#form_div_name .input-group,#form_div_decimal_places .input-group{
+width: 100%;
+}
+.small_ipt
+{
+	width:100px!important;
+}
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}

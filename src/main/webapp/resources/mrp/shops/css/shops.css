@@ -1,0 +1,100 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+#department_form .input-group{
+	width: 100%;
+}
+
+#department_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#department_form .form-group {
+    margin-bottom: 20px;
+}
+input#name,textarea#description,select#area_id,
+textarea#address,input#city,input#state,input#country,input#zip_code,
+input#city,input#company_license_no,input#company_tax_no,
+input#company_cst_no,#shpImg,input#phone,input#email
+{
+	width:400px;
+}
+input#name,input#code,select#area_id,
+input#city,input#state,input#country,input#zip_code,
+input#city,input#company_license_no,input#company_tax_no,
+input#company_cst_no
+{width
+	height:45px;
+}
+
+#div_table_department div#DataTables_Table_1_filter {
+  margin-left: 0!important;
+  z-index: 50;
+  position: inherit;
+  margin-right: 0 !important;
+}
+div#div_table_department div#DataTables_Table_1_wrapper .pull-left:nth-child(2){
+	float: right !important;
+}
+/* #div_table_department div#DataTables_Table_0_length
+{
+	display:none;
+} */
+#div_table_department div#DataTables_Table_1_length {
+  position: inherit;
+  float: left;
+}
+#div_table_department div#DataTables_Table_1_paginate {
+  display: none;
+}
+div#div_table_department table {
+  width: 100%!important;
+}
+div#div_table_department .dataTables_scrollHeadInner {
+  width: 100%!important;
+}
+#div_table_department div.dataTables_filter input {
+ margin-left: 0.4em;
+  display: inline-block;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+/* #div_table_department div.dataTables_length select 
+{
+	display: inline-block;
+  margin-top: 273px;
+  position:relative;
+} */
+
+
+
+.settinghead{
+	text-align: center !important;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 8px;
+}
+.settingsdiv {
+  background: #ecf0f5;
+  height: 204px;
+}
+#shops_form_div .input-group-addon {
+    float: left;
+    padding: 11px 0;
+    width: 36px;
+}
+
+#DataTables_Table_1_wrapper .dataTables_length
+{
+	display:none;
+}
+#form_div_code .input-group-addon
+{
+	float:none;
+}
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}

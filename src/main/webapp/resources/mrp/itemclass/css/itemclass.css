@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+#department_form .input-group{
+	width: 100%;
+}
+
+#department_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#department_form .form-group {
+    margin-bottom: 20px;
+}
+#form_div_department_code  div.adropdown table thead  tr th:last-child {
+	display: none;
+}
+
+#alter_name,#accnt_code,
+#super_class,#bg_color,#text_color
+{
+width:260px !important;
+ height:40px
+}
+#description
+{
+ width:260px;
+}
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+
+/* md-content .md-tab.md-active {
+  cursor: default;
+  background: #202d3b;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+md-content .md-tab {
+    background: #657280 none repeat scroll 0 0;
+    color: #fff;
+    margin: 0 1px;
+}
+md-content .md-tab.md-active {
+    background: #202d3b none repeat scroll 0 0;
+    color: #fff;
+}
+md-pagination-wrapper{
+	width: 100% !important;
+} */

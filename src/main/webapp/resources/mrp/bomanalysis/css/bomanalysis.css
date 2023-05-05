@@ -1,0 +1,125 @@
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+input#stock_item_name {
+    width: 257px;
+    text-align: left;
+}
+i.fa.fa-info-circle {
+    float: right;
+    margin-top: 8px;
+}
+input#bom_consumption {
+    width: 85%;
+}
+#update {
+    float: right;
+    height: 35px;
+    width: 104px;
+}
+
+.print_btn{
+    height: 35px;
+}
+.actualStockTxt{
+	    width: 60px !important;
+}
+
+/***calender***/
+
+.box1 {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    padding: 0 5px 5px;
+    margin: 10px 0px;
+    background: #fff;
+    box-shadow: 0px 0px 7px #d6d6d6;
+    float: left;
+}
+
+
+.picker-day {
+    padding: 4px 5px;
+}
+
+.picker-day {
+    padding: 2px 0 !important;
+}
+.picker-day:not(.picker-off):not(.picker-empty):hover {
+    background-color: #de4e1f!important;
+}
+.picker-day.picker-selected {
+    background-color: #de4e1f!important;
+}
+
+/*  apply colors if not selected, if selected I want the default selected css
+ */.picker-day.holiday:not(.picker-selected){
+    background-color: #00ffa2;
+    color: #fff;
+}
+
+/* if my holiday isn't clickable (it's the case in the demo)
+ */.picker-day.holiday.picker-off{
+    background-color: #00a267;
+    color: #fff;
+    cursor: default;
+}
+
+/* my birthday, is clickable
+ */.picker-day.prodadd:not(.picker-selected){
+    background-color: #ded100;
+    color: #000;
+}
+.picker-day.curdate:not(.picker-selected){
+    background-color: #288728;
+    color: #000;
+}
+
+ 
+ .picker-day.today, .picker-day.today.picker-off, .picker-day.today.picker-off:hover, .picker-day.today.picker-selected, .picker-day.today:hover {
+/*     color: #ff0000 !important;
+ */    
+ background-color: green !important;
+} 
+
+.mrpappcntdiv {
+    width: 100%;
+    margin-top: 64px;
+    float: left;
+}
+
+table.table.table-bordered th  {
+    border: 1px solid white;
+    background: #3498db !important;
+    color: #fff;
+}
+#bom_row{
+	margin-top: -33px;
+}
+div#form_div_scheduledate_planning {
+    margin-left: -55px;
+}
+
+.department{
+	margin-left: -87px;
+}
+.bomActiveStaus{
+	color: green;
+}
+.bomInActiveStaus{
+	color: #f00000;
+}

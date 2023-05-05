@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+#item_category_form #item_category_form_div .input-group
+	{
+	width: 100%;
+}
+
+#item_category_form  .input-group {
+	
+	width: 100%;
+}

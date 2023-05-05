@@ -1,0 +1,539 @@
+@CHARSET "UTF-8";
+
+
+/* * {
+    font-family: Segoe UI;
+    font-site: 9pt;
+} */
+
+
+
+
+
+.fc-event {
+  
+    font-size: 0.81em !important;}
+
+#btnBackprod
+{
+background: #de9504;
+    border-color: #bc7300;
+    color: #fff;
+}
+
+.fc-basic-view .fc-body .fc-row {
+    min-height: 4em !important;
+}
+/* .fc-event{
+  width: 55px !important;}
+  
+   */
+
+.table{
+	border-collapse: initial !important;
+}
+
+#item_category_form #item_category_form_div .input-group
+	{
+	width: 100%;
+}
+
+#item_category_form  .input-group {
+	
+	width: 100%;
+}
+
+#btnBack{
+	height:31px;
+	
+}
+
+
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+.fc-day-grid-container{
+height:auto!important;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+
+
+
+
+/* #items_table tr:hover td {
+    background-color: lightgrey;
+}
+ */
+
+
+h1 {
+	color:black !important;
+	    font-size: 20px;
+}
+
+
+.selected {
+   background-color: lightgrey;
+}
+
+
+ body {
+    padding-top: 50px;
+}/*
+.dropdown.dropdown-lg .dropdown-menu {
+    margin-top: -1px;
+    padding: 6px 20px;
+}
+.input-group-btn .btn-group {
+    display: flex !important;
+}
+.btn-group .btn {
+    border-radius: 0;
+    margin-left: -1px;
+}
+.btn-group .btn:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.btn-group .form-horizontal .btn[type="submit"] {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.form-horizontal .form-group {
+    margin-left: 0;
+    margin-right: 0;
+}
+.form-group .form-control:last-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+@media screen and (min-width: 768px) {
+    #adv-search {
+        width: 350px;
+        margin:-47px auto;
+    }
+    .dropdown.dropdown-lg {
+        position: static !important;
+    }
+    .dropdown.dropdown-lg .dropdown-menu {
+        min-width: 350px;
+    }
+}
+
+.btn {
+    padding: 4px 12px !important;} */
+
+
+/* #div_btn_new
+{
+	margin-top: 40px;
+} */
+/* #div_btn_add
+{
+	margin-top: 35px;
+} */
+
+#items_table  div.adropdown table thead  tr th:last-child {
+	display: none;
+}
+
+#items_table  div.adropdown table thead  tr th:first-child {
+	display: none;
+}
+
+#items_table  div.adropdown table thead  tr th:nth-child(4) {
+	display: none;
+}
+/* #items_table  div.adropdown table thead  tr th:nth-child(3) {
+	display: none;
+} */
+#items_table  div.adropdown table thead  tr th:nth-child(5) {
+	display: none;
+}
+
+#items_table  div.adropdown table tbody  tr td:last-child {
+	display: none;
+}
+.modal-backdrop {
+z-index: 0 !important;
+}
+
+a.buttonstyle {
+    background: #337ab7;
+    border-radius: 5px;
+    color: white;
+    float: left;
+    font-weight: normal;
+    height: 31px;
+    margin-right: 6px;
+    padding: 3px 15px;
+    text-align: center;
+    width: 85px;
+}
+#btnAdd.btn.btn-sm.btn-primary.add_btn {
+    border-radius: 5px;
+    width: 85px;
+}
+.greenColor
+{
+	color:green;
+}
+/* .blueColor
+{
+	color:green;
+} */
+.redColor
+{
+	color:red;
+}
+.summarybtn {
+  
+  border-radius: 5px;
+    color: white;
+    font-size: 14px !important;
+    font-weight: normal;
+    height: 30px;
+    padding: 3px 5px !important;
+    width: 94px;
+  
+}
+
+.form-control.editord {
+    background-color: transparent;
+    border: 0 none;
+    width: auto;
+    float: right;
+}
+.finalized {
+	color: red;
+	cursor: pointer;
+}
+.nonfinalized {
+	cursor: pointer;
+}
+.green,
+  .green div,
+  .green span {
+    background-color: green; /* background color */
+    border-color: white;     /* border color */
+    color: white;           /* text color */
+  }
+  
+  
+  /* button.btn.btn-success.btn-lg.summarybtn {
+    font-size: 10px!important;
+  
+} */
+
+.redclr
+{
+	color: red;
+	background-color: white;
+}
+.greenclr
+{
+	color: green;
+	
+	background-color: white;
+}
+
+button#bt {
+    background-color: white;
+}
+.redColor
+{
+	color:red;
+}
+.pinkColor
+{
+color:#e313d3;
+}
+a.editcombo { cursor: pointer; }
+
+.printdiv
+{
+  margin-right: 16px;
+  display: block;
+  position: fixed;
+  top: 103px;
+  right: 74px;
+  z-index: 9999;
+}
+
+.selectOrderType {
+    margin-bottom: 58px;
+}
+.box1 {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    padding: 0 5px 5px;
+    margin: 10px 0px;
+    background: #fff;
+    box-shadow: 0px 0px 7px #d6d6d6;
+    float: left;
+}
+.box2 {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 10px 0px;
+    background: #fff;
+    box-shadow: 0px 0px 7px #d6d6d6;
+    float: left;
+}
+.box3 {
+    width: 100%;
+    border-radius: 8px;
+    height: auto;
+    padding: 10px;
+    margin: 10px 0px;
+    background: #fff;
+    box-shadow: 0px 0px 7px #d6d6d6;
+    float: left;
+}
+.list-content-header {
+    position: inherit !important;
+    width: 100% !important;
+    top: 0 !important;
+}
+#advsearchbox{
+	width: 100% !important;
+	padding-left: 151px !important;
+    float: left!important;
+}
+div#DataTables_Table_0_length {
+    position: absolute !important;
+    top: -39px !important;
+    z-index: 50;
+}
+div#DataTables_Table_0_paginate {
+    position: absolute !important;
+    top: -39px !important;
+    z-index: 50 !important;
+    right: 0 !important;
+    margin-left: 0 !important;
+}
+.new_box {
+    float: right !important;
+    height: 50px !important;
+    width: auto !important;
+}
+table.dataTable thead>tr>th {
+    font-size: 13px !important;
+    padding-left: 23px !important;
+    padding-right: 2px!important;
+}
+table.dataClass >tbody>tr>td{
+	padding-left: 5px!important;
+	font-size: 14px !important;;
+}
+#module_content.content {
+    padding: 0 0 35px !important;
+}
+div#adv-search{
+	margin: 4px auto !important;
+	margin-left: 267px!important;
+}
+section.content-header.content-header_second {
+    float: left !important;
+    width: auto !important;
+}
+.box-header.rgt_btn_header {
+    margin-top: 0 !important;
+}
+.content-wrapper.header_second {
+    padding-right: 15px;
+    float: left;
+    background: #f1f3f4;
+}
+.orderlabel label {
+    float: left;
+    font-size: 13px!important;
+    font-style: italic;
+    color: #696565;
+}
+.orderlabel span {
+    float: left;
+    font-size: 14px!important;
+    font-weight: bold;
+    padding-left: 5px;
+    color: #2f8dbd;
+}
+.content-wrapper, .right-side {
+    min-height: 100%;
+     background-color: #fff;
+ }
+.orderlabel {
+    float: left;
+    width: 100%;
+    padding-bottom: 11px;
+}
+.full_width_div{
+	float:left;
+	width: 100%
+}
+.picker-day {
+    padding: 4px 5px;
+}
+/* #ordernumber  {
+    margin-left: -816px;
+    margin-right: 92px;
+}
+.input-group.ordno {
+    margin-left: -88px;
+} */
+div#div_btn_add {
+    position: fixed !important;
+    top: 52px !important;
+    right: 0 !important;
+    z-index: 99999 !important;
+}
+.mrp_header {
+    height: 48px;
+    background-color: #fff;
+    width: 100%;
+    border-bottom: 2px solid #e5e5e5;
+    float: left;
+    top: 52px;
+    position: fixed;
+    z-index: 9999;
+}
+.mrpappcntdiv {
+    width: 100%;
+    margin-top: 64px;
+    float: left;
+}
+section.content-header.content-header_second {
+    position: fixed !important;
+    top: 45px !important;
+    left: 230px !important;
+    z-index: 99999;
+    background-color: transparent !important;
+}
+div#advsearchbox.container.advcsrch {
+    padding-left: 0!important;
+    position: relative!important;
+    width: 100%!important;
+}
+
+div#advsearchbox.container.advcsrch div#adv-search {
+    margin-left: 0!important;
+    position: absolute;
+    top: 4px;
+    left: 168px;
+}
+.picker-day {
+    padding: 2px 0 !important;
+}
+.picker-day:not(.picker-off):not(.picker-empty):hover {
+    background-color: #de4e1f!important;
+}
+.picker-day.picker-selected {
+    background-color: #de4e1f!important;
+}
+section.content-header.content-header_second h1 {
+    float: left;
+}
+div#div_btn_new.box-header.rgt_header_btn {
+    position: fixed;
+    top: 58px;
+    width: auto;
+    right: 0;
+    z-index: 99999;
+}
+div#summaryBttn.pull-right.printdiv {
+    position: fixed;
+    top: 61px;
+    right: 75px;
+}
+.alertmsg {
+    position: initial;
+    top: 0;
+    float: left;
+    margin-top: 0;
+    margin-left: 43px;
+}
+
+/*  apply colors if not selected, if selected I want the default selected css
+ */.picker-day.holiday:not(.picker-selected){
+    background-color: #00ffa2;
+    color: #fff;
+}
+
+/* if my holiday isn't clickable (it's the case in the demo)
+ */.picker-day.holiday.picker-off{
+    background-color: #00a267;
+    color: #fff;
+    cursor: default;
+}
+
+/* my birthday, is clickable
+ */.picker-day.prodadd:not(.picker-selected){
+    background-color: #ded100;
+    color: #000;
+}
+.picker-day.curdate:not(.picker-selected){
+    background-color: #288728;
+    color: #000;
+}
+
+ 
+ .picker-day.today, .picker-day.today.picker-off, .picker-day.today.picker-off:hover, .picker-day.today.picker-selected, .picker-day.today:hover {
+/*     color: #ff0000 !important;
+ */    
+ background-color: green !important;
+} 
+
+div#dataTabform {
+    background: #fff ;
+    border-radius: 9px;
+    border: 2px solid #E5E5E6;
+}
+/* table.dataTable thead>tr>th {
+    border: 1px solid #ddd !important;
+    background: #dddddd !important;
+    color: #2a2a2a !important;
+} */
+
+.orderlabel span.ng-binding {
+    width: 30px;
+    /* height: 20px; */
+    background: gray;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    padding: 2px;
+    margin-left: 9px;
+    /* font-size: 126px; */
+}
+.orderlabel label{
+	width:135px;	
+}
+
+.radio-font{
+	font-size : 15px
+}
+
+table tr td{
+	font-size : 15px;
+}

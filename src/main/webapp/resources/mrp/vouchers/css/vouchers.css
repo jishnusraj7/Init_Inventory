@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+#vouchers_form .input-group{
+	width: 100%;
+}
+
+#vouchers_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#vouchers_form .form-group {
+    margin-bottom: 20px;
+}
+input#code,input#name,textarea#description,input#value,input#account_code,
+select#voucher_type
+{
+	width:280px !important;
+}
+textarea#description
+{
+	height:80px;
+}
+button#addTypeBtn ,button#editTypeBtn{
+  width: 100px;
+  height: 30px;
+  background: #4E9CAF;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin-right: 20px;
+  margin-top: 5px;
+  border: none;
+}
+
+#vouchers_form_div .input-group-addon {
+    float: left;
+    padding: 11px 0;
+    width: 35px;
+}
+#voucher_type {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}

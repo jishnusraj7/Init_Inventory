@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-bottom-width: 1px;
+
+}
+
+.table-cell {
+	border-collapse: collapse;
+	border: 1px solid #eaeaea;
+}
+
+.table-detail-cell {
+	border-collapse: collapse;
+	border: 1px solid #eaeaea;
+}
+
+.table-header-cell{
+	border-collapse: collapse;
+	border: 1px solid #eaeaea;
+	}
+	

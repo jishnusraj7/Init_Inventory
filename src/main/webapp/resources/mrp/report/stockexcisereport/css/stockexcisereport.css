@@ -1,0 +1,51 @@
+
+
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+#category{
+    height: 20px;
+    width: 86px;
+    margin-top: 3px;
+}
+
+#cat_wise{
+    margin-right: 114px;
+    float: right;
+}
+
+.classItem{
+	 display: flex;
+}
+.acontainer {
+    width: 225px;
+}
+
+
+.main_list_div {
+    float: left;
+}
+
+.main_list_div label.ng-binding.ng-scope {
+    width: 236px;
+}
+
+ button.clickbtn {
+    height: 25px;
+    width: 10px;
+    /* padding: 12px; */
+}

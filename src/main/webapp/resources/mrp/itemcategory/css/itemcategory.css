@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+#item_category_form .input-group{
+	width: 100%;
+}
+
+/* #item_category_form .box-body{
+	//height: 454px;
+	padding-top: 30px;
+}
+
+#item_category_form .form-group {
+    margin-bottom: 20px;
+}
+ */
+/* #item_category_form label {
+	text-align: left !important;
+} */
+div#div_btn_add {
+    margin-top: 0px !important;
+}

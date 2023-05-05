@@ -1,0 +1,23 @@
+
+#sale_item_choices_form .input-group{
+	width: 100% ;
+}
+
+#sale_item_choices_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#sale_item_choices_form .form-group {
+    margin-bottom: 20px;
+}
+#sale_item_choices_form_div .acontainer{
+	float: left;
+}
+.widthset {
+  width: 360px!important;
+  float: left!important;
+}
+.acontainer {
+  float: left;
+}

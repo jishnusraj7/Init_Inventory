@@ -1,0 +1,23 @@
+
+#credit_card_form .input-group{
+	width: 100%;
+}
+
+#credit_cardform .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#credit_card_form .form-group {
+    margin-bottom: 20px;
+}
+
+
+.remvpadding{
+	padding: 0px;
+}
+
+.leftdiv
+{
+	padding-left: 0px;
+}

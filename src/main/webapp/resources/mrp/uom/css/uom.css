@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+
+/* #item_category_form .input-group{
+	width: 400px;
+}
+
+#item_category_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#item_category_form .form-group {
+    margin-bottom: 20px;
+}
+ */
+
+/* 
+#item_category_form label {
+	text-align: left !important;
+}
+ */
+
+#item_category_form #item_category_form_div .input-group
+	{
+	width: 100%;
+}
+
+#item_category_form  .input-group {
+	
+	width: 100%;
+}
+div#div_btn_add {
+    margin-top: 0px !important;
+}

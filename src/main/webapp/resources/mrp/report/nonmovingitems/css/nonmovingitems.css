@@ -1,0 +1,32 @@
+
+.itmdiv{
+	display: flex;
+}
+
+#form_div_bom_item_id .acontainer.search-div-width  {
+     height: 34px;
+    width: 130px
+}
+#item_stock_form_div .input-group {
+    width: 32%;
+}
+
+.input-group.radio_report{
+    width: 44%;
+    float: none;
+    margin: 0 auto;
+}
+#form_div_bom_item_id  div.adropdown table tbody tr td:last-child {
+	display: none;
+}
+#form_div_bom_item_id div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+#form_div_bom_item_id div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+#non_moving_duration {
+    text-align: right;
+}
+

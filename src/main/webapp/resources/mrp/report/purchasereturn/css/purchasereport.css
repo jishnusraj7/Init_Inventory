@@ -1,0 +1,90 @@
+
+
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+.classItem1{
+
+	 display: flex;
+}
+/*  #form_div_item_id_stockout .acontainer {
+     height: 34px;
+    width: 160px;
+} 
+ #department_name {
+     width: 199px;
+}
+ 
+ 
+ #form_div_department_code .acontainer {
+     height: 34px;
+    width: 160px;
+}
+ 
+#form_div_department_code .acontainer.search-div-width {
+    height: 34px;
+    width: 160px;
+    
+}  */
+
+
+
+#form_div_item_id_stockout .acontainer {
+     height: 34px;
+    width: 175px;
+}
+#form_div_department_code #itemname1,#department_name {
+    width: 313px;
+}
+/* input[type="text"] {
+    width: 127px;
+} */
+
+#form_div_sdepartment_code .acontainer.search-div-width {
+    height: 34px;
+    width: 160px;
+    
+} 
+
+
+
+#stock_out_report_form_div #form_div_source_department_code .adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+
+#stock_out_report_form_div #form_div_dest_department_code .adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+
+
+#form_div_item_id_stockout  div.adropdown table tbody tr td:last-child {
+	display: none;
+}
+#form_div_item_id_stockout div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+/* #form_div_department_code div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+#form_div_department_code  div.adropdown table tbody tr td:last-child {
+	display: none;
+} */
+

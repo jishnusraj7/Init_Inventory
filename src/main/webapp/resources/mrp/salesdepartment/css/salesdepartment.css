@@ -1,0 +1,21 @@
+
+#sales_department_form .input-group{
+	width: 100%;
+}
+
+#sales_department_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#sales_department_form .form-group {
+    margin-bottom: 20px;
+}
+.remvpadding {
+    padding: 0px;
+   
+}
+label.col-sm-12.adjst {
+    padding-top: 7px;
+    margin-bottom: 0;
+}

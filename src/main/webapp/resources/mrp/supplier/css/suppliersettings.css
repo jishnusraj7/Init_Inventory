@@ -1,0 +1,154 @@
+/* input#code {
+	height: 35px;
+	width: 100px;
+	border: 1px solid darkgray;
+}
+
+input#name {
+	height: 35px;
+	border: 1px solid darkgray;
+}
+
+.input-group.#Abbrevation {
+	width: 206px;
+	border: 1px solid darkgray;
+}
+
+input#tinNo {
+	width: 100px;
+	border: 1px solid darkgray;
+}
+
+textarea#address {
+	width: 370px;
+	height: 100px;
+	border: 1px solid darkgray;
+}
+
+select#country {
+	width: 210px;
+	border: 1px solid darkgray;
+}
+
+select#state {
+	width: 211px;
+	border: 1px solid darkgray;
+	margin-top: 13px;
+}
+
+select#city {
+	width: 213px;
+	border: 1px solid darkgray;
+	margin-top: 13px;
+}
+
+input#pincode {
+	width: 215px;
+	border: 1px solid darkgray;
+}
+
+input#contactperson {
+	width: 215px;
+	border: 1px solid darkgray;
+}
+
+input#contact_no {
+	width: 217px;
+	border: 1px solid darkgray;
+}
+
+input#emailid {
+	width: 218px;
+	border: 1px solid darkgray;
+}
+
+input#backofficeref {
+	width: 218px;
+	border: 1px solid darkgray;
+}
+
+textarea#remarks {
+	width: 370px;
+	height: 90px;
+	border: 1px solid darkgray;
+}
+
+label#lbl_tin_number {
+	margin-left: -43px;
+	font-weight: 600;
+}
+
+label#lbl_country {
+	margin-left: -56px;
+	font-weight: 600;
+}
+
+input#Abbrevation {
+	width: 100px;
+	border: 1px solid darkgray;
+}
+
+label#lbl_name {
+	margin-left: -40px;
+	font-weight: 600;
+}
+
+label#lbl_abbreviation {
+	margin-left: -14px;
+	font-weight: 600;
+}
+
+label#lbl_address {
+	margin-left: -84px;
+	font-weight: 600;
+}
+
+label#lbl_state {
+	margin-left: -10px;
+	font-weight: 600;
+}
+
+label#lbl_contact_person {
+	margin-left: -11px;
+	font-weight: 600;
+}
+
+label#lbl_contact_no {
+	margin-left: -85px;
+	font-weight: 600;
+}
+
+label#lbl_back_officer {
+	margin-left: -93px;
+	font-weight: 600;
+}
+
+label#lbl_remarks {
+	margin-left: -11px;
+	font-weight: 600;
+}
+
+div#form_supplier_div {
+	border-radius: 5px;
+	padding: 10px;
+	float: left;
+	background-color: #e5e5e5;
+}
+
+label.col-sm-1.control-label.code-lbl-font-size {
+	font-weight: 600;
+}
+label.col-sm-2.control-label {
+    font-weight: 600;
+} */
+
+.supplier_mrg_btm {
+    margin-bottom: 16px;
+}
+
+textarea#address.supplier_address {
+    height: 34px;
+}
+.supplier_mrg_btm label {
+    margin-top: -15px;
+}

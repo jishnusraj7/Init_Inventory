@@ -1,0 +1,84 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+#department_form .input-group{
+	width: 100%;
+}
+
+#department_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#department_form .form-group {
+    margin-bottom: 20px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+.addstyle{
+text-align: right;	
+}
+
+/* 
+md-content._md {
+        border: 1px solid #f1f1f1;
+}
+
+ .md-tab {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  background: #ffffff	 none repeat scroll 0 0;
+    color: #202d3b;
+    margin: 0 1px;
+}
+ .md-tab.md-active {
+
+	 cursor: default;
+  background: #202d3b;
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important; 
+    background: #fafafa none repeat scroll 0 0;
+    color: #040404;
+}
+md-pagination-wrapper{
+	width: 100% !important;
+}
+
+md-tabs md-ink-bar {
+      color: orange;
+    background: orange;
+}
+
+md-ink-bar {
+    height: 3px !important;
+}
+
+md-tabs.md-default-theme md-tabs-wrapper, md-tabs md-tabs-wrapper {
+    background-color: #ffffff;
+    border-color: rgb(255, 255, 255);
+}
+
+md-tabs.md-default-theme md-tabs-wrapper, md-tabs md-tabs-wrapper {
+  background-color: #ffffff;
+    border-color: rgb(255, 255, 255);
+
+}
+md-content.md-default-theme, md-content {
+
+    background-color: #fafafa;
+}
+ */
+.addmargin {
+    margin-top: 15px;
+}
+
+.form-horizontal .control-label {
+    padding-top: 0px !important;
+    }

@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+
+/* #item_category_form .input-group{
+	width: 400px;
+}
+
+#item_category_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#item_category_form .form-group {
+    margin-bottom: 20px;
+}
+ */
+
+/* 
+#item_category_form label {
+	text-align: left !important;
+}
+ */
+
+#item_category_form #item_category_form_div .input-group
+	{
+	width: 100%;
+}
+
+#item_category_form  .input-group {
+	
+	width: 100%;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+#form_div_description
+{
+	display:none;
+}
+
+
+#form_div_items_tbl{
+    padding:12px;
+    width:35%;
+}
+div#taxMain {
+    border: 1px solid;
+    border-color: grey;
+}
+.iptwidth
+{
+	width: 100%;
+}

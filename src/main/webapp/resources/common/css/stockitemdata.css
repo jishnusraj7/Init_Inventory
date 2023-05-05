@@ -1,0 +1,74 @@
+ button#itemLists {
+    float: right;
+    background-color: #ff2f00;
+}
+
+#form_div_items_tbl .cmmn_maain_tbl table#items_table tr td{
+	width: auto;
+}
+
+div.item_stock_table_popup {
+    height: 350px;
+    overflow-x: hidden;
+}
+
+table#itemsTable tr th {
+    border: 1px solid white;
+    background: #3498db;
+    color: #fff;
+}
+
+#search_items_data tbody tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+#search_items_data  tr th:FIRST-CHILD, #search_items_data  tr td:FIRST-CHILD  {
+	display: none;
+}
+#search_items_data div.adropdown table tbody tr td:last-child {
+	display: none;
+}
+
+
+
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(4) {
+	display: none;
+}
+
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(5) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(6) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(7) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(8) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(9) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(10) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(11) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(12) {
+	display: none;
+}
+#search_items_data div.adropdown table thead tr:FIRST-CHILD th:nth-child(13) {
+	display: none;
+}
+.search_btn{
+	margin-left: -24px;
+    height: 34px;
+}
+
+div.item_stock_table_popup {
+    height: 350px;
+    overflow-x: hidden;
+}
+ 

@@ -1,0 +1,40 @@
+#time_slot_form #item_category_form_div .input-group
+	{
+	width: 100%;
+}
+
+#time_slot_form  .input-group {
+	
+	width: 100%;
+}
+div#div_btn_add {
+    margin-top: 0px !important;
+}
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+.moment-picker table thead {
+    display: none !important;
+}
+
+.moment-picker-specific-views {
+    position: absolute ;
+    z-index: 9999999999999 ;
+    width: 100% ;
+    border: 1px solid #ccc ;
+    max-height: 250px ;
+    background: #fff ;
+    overflow-x: hidden ;
+}
+i#calender_icon {
+    z-index: 0!important;
+}

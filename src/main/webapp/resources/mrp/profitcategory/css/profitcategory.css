@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+#profit_category_form .input-group{
+	width: 100%;
+}
+
+#profit_category_form .box-body{
+	height: 454px;
+	padding-top: 30px;
+}
+
+#profit_category_form .form-group {
+    margin-bottom: 20px;
+}
+
+div#div_btn_add {
+    margin-top: 0px !important;
+}

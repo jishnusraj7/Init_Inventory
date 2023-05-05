@@ -1,0 +1,52 @@
+
+
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	font-size: medium;
+    left: 164px;
+    padding: 8px 5px;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+.classItem1{
+
+	 display: flex;
+}
+#form_div_item_id1 .acontainer {
+     height: 34px;
+    width: 135px
+}
+#itemname1,#supplier_name {
+    width: 250px;
+}
+
+#form_div_supplier_code .acontainer.search-div-width {
+    height: 34px;
+    width: 135px
+    
+} 
+
+#form_div_item_id2  div.adropdown table tbody tr td:last-child {
+	display: none;
+}
+#form_div_item_id2 div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+#form_div_item_id2 div.adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+
+#purchaseorder_report_form_div #form_div_supplier_code .adropdown table thead tr:FIRST-CHILD th:FIRST-CHILD {
+	display: none;
+}
+

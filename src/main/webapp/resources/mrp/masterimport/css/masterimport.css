@@ -1,0 +1,72 @@
+.md-tab{
+	
+	border-radius : 0px !important;
+	font-weight: 600 !important;
+	background-color: rgb(250,250,250) !important;
+}
+
+.md-tab.md-active{
+	
+	background-color: #ccc !important;
+}
+button#mstBtnImport {
+    background: #266fae none repeat scroll 0 0;
+    border: 2px solid #085190;
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    font-size: 21px;
+    float: right;
+    font-weight: bold;
+    margin-top: 2px;
+    padding: 4px 22px;
+}
+.dataTables_paginate.paging_full_numbers {
+    float: right;
+}
+.master-import-body {
+    width: 100%;
+    float: left;
+    background: #f1f1f1;
+    padding: 10px 0;
+    margin-top: 50px;
+}
+.master_import_head_btn {
+    float: left;
+    margin-bottom: 23px;
+    width: 100%;
+    margin-top: -54px;
+}
+.master_import_head_btn .active button{
+	background: #202d3b;
+}
+.master_import_head_btn li button {
+    background: #657280 none repeat scroll 0 0;
+    border: 1px solid #505d6b;
+    border-top-left-radius: 8px;
+    color: #fff;
+    display: block;
+    font-size: 13px!important;
+    font-weight: bold;
+    height: 45px;
+    margin: 0 0px;
+    border-top-right-radius: 8px;
+    padding: 5px 34px;
+    padding: 5px 24px;
+    margin-right: 5px;
+}
+.dataTables_paginate.paging_full_numbers a {
+    background-color: #505c62;
+    border-color: #3c484e;
+    color: #b9b9b9;
+    float: left;
+    height: 27px;
+    cursor: pointer;
+    line-height: 1.42857;
+    margin: 0;
+    padding: 1px 12px;
+}
+.tryThis
+{
+	background-color: blue;
+}

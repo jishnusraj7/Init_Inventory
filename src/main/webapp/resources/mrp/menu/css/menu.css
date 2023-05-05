@@ -1,0 +1,83 @@
+
+#menu_form .input-group{
+	width: 100%;
+}
+
+/* #menuform .box-body{
+	height: 454px;
+	padding-top: 30px;
+} */
+
+#menu_form .form-group {
+    margin-bottom: 20px;
+}
+
+
+.remvpadding{
+	padding: 0px;
+}
+
+.leftdiv
+{
+	padding-left: 0px;
+}
+/* md-content .md-tab.md-active {
+  cursor: default;
+  background: #202d3b;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+md-content .md-tab {
+    background: #657280 none repeat scroll 0 0;
+    color: #fff;
+    margin: 0 1px;
+}
+md-content .md-tab.md-active {
+    background: #202d3b none repeat scroll 0 0;
+    color: #fff;
+}
+md-pagination-wrapper{
+	width: 100% !important;
+} */
+
+.mrglft
+{
+	margin-left: 40px;
+
+	}
+	.padd
+	{
+	padding-left: 0px;}
+	
+	
+	
+	div#DataTables_Table_1_paginate {
+    padding-left: 356px;
+}
+
+
+a#table2_first {
+    display: none;
+}
+a#table2_last {
+    display: none;
+}
+#table2_paginate span {
+    display: none;
+}
+a#table2_previous {
+    border: 1px solid #ddd;
+    padding: 6px;
+}
+a#table2_next {
+    border: 1px solid #ddd;
+    padding: 6px;
+}
+
+body.md-dialog-is-showing {
+	
+	overflow: visible !important;
+}
+div#msgtop {
+    margin-top: -100px;
+}

@@ -1,0 +1,6 @@
+.red-tooltip+.tooltip>.tooltip-inner {
+	background-color: #f00;
+}
+.selected
+{
+background-color: #CBCFD4 !important;}
